@@ -159,32 +159,6 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-📥 Installation
-git clone https://github.com/YOUR_USERNAME/Multimodal-Sensor-Fusion.git
-cd Multimodal-Sensor-Fusion
-pip install -r requirements.txt
-
-▶️ How to Run
-1. Run preprocessing
-python preprocessing/preprocess_pipeline.py
-
-2. Train machine learning models
-python models/classical_ml.py
-
-3. Train deep learning models
-python models/residual_cnn.py
-
-4. Explore results
-
-Open the notebook:
-
-notebooks/Results_Analysis.ipynb
-
-📚 Research Paper
-
-The complete research paper for this project is available in the repository under:
-
-/Multimodal Sensor Fusion for Mental Workload Prediction Research Paper.docx
 
 🧭 Future Work
 
