@@ -193,6 +193,9 @@ Future extensions may include realtime multimodal input, edge-device deployment 
 🤝 Contributors
 
 Mitali Dogra
+
 Vallika Dhawan
+
 Kritika Yadav
+
 The NorthCap University, Gurugram
